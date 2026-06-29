@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR2p0177/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR2p0177/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法律答問
+  identifiers:
+    krp: KR2p0177
+  tags:
+    tls-internal: swl
+    kr-categories: KR2p
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0177.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0177_001-CHANT.yaml, hash: 'sha256:54e18719e1515dbafd1a1a8661fb0d0a187189b810eff07690d45375a9d027b5'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0177_001-CHANT.markers.yaml, hash: 'sha256:43b9612039d252401ceed0651e3769c8d897c5d1b7ec8fb0c63b5208bf5dc15c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2p0177_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 5538
+  label: 睡虎地秦墓竹簡法律答問
+  type: section
+  level: 1
+hash: sha256:b83bb451b93a5f6d56165408a9ac73cbdb234ba8adafc513ce45a0126b8e81a8
