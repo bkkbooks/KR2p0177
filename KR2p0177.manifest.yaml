@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0177_001.yaml, hash: 'sha256:32c165785a2c2a2edad0d11c09a1f4cc6e302962c9ea24258d3dc12337a53dc2'}
+  - {seq: 1, filename: KR2p0177_001.yaml, hash: 'sha256:54e18719e1515dbafd1a1a8661fb0d0a187189b810eff07690d45375a9d027b5'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0177_001.markers.yaml, hash: 'sha256:d8b10f3c2d1d78873f3bf4ec1aa1b63ea8f9620ff3673f014b597508e57cce3e'}
+  - {seq: 1, role: markers, filename: assets/KR2p0177_001.markers.yaml, hash: 'sha256:5bae5ec15bbb70ccf82a225d0e0d037619674897307e0b315ad2c260bd7f0d00'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 睡虎地秦墓竹簡法律答問
   type: section
   level: 1
-hash: sha256:6b3b401dfd3f85f44da4db312f910fa7169045a74012bb53940689ada37e1561
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:de7c66794bc6d602904c5b45232b0db6564be74e6faabd75d9499770816558dc
