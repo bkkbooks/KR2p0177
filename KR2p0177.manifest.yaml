@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2p0177/v1
 canonical_location: https://kanripo.org/bkk/KR2p0177/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 法律答問
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0177_001.yaml, hash: 'sha256:54e18719e1515dbafd1a1a8661fb0d0a187189b810eff07690d45375a9d027b5'}
+  - {seq: 1, filename: KR2p0177_001.yaml, hash: 'sha256:73f2418b8c93f2da91f878d7a0059bafafbbdde6de9b5269a8ad78fe47fb6b11'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0177_001.markers.yaml, hash: 'sha256:5bae5ec15bbb70ccf82a225d0e0d037619674897307e0b315ad2c260bd7f0d00'}
+  - {seq: 1, role: markers, filename: assets/KR2p0177_001.markers.yaml, hash: 'sha256:3e8cd3148792e1612ffce3d3211febd7812ddd28d37b0f6601eba5c11bf7435d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 睡虎地秦墓竹簡法律答問
   type: section
   level: 1
-hash: sha256:de7c66794bc6d602904c5b45232b0db6564be74e6faabd75d9499770816558dc
+hash: sha256:de73f44f30505ea171d0bb0796d113cf8787cc49763a0173e3f7591acdbb9073
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
